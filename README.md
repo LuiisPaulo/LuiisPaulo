@@ -6,7 +6,7 @@
 
 ![LuiisPaulo GitHub stats](https://github-readme-stats.vercel.app/api?username=LuiisPaulo&show_icons=true&theme=radical)
 
-## Tecnologias utilizadas 
+<!-- Acrescentar depois --> 
 <div style="display: incline_block"><br/>
   <img>
   
